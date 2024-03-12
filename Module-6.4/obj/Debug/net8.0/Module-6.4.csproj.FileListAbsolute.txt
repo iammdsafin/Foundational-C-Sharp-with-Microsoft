@@ -1,0 +1,15 @@
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\bin\Debug\net8.0\Module-6.4.exe
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\bin\Debug\net8.0\Module-6.4.deps.json
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\bin\Debug\net8.0\Module-6.4.runtimeconfig.json
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\bin\Debug\net8.0\Module-6.4.dll
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\bin\Debug\net8.0\Module-6.4.pdb
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.AssemblyInfoInputs.cache
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.AssemblyInfo.cs
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.sourcelink.json
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.dll
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\refint\Module-6.4.dll
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.pdb
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\Module-6.4.genruntimeconfig.cache
+C:\Users\Ahmed Shafin\Downloads\Dev-Studio\Dev-Certification\Foundational-C-Sharp-with-Microsoft-Certification\Module-6.4\obj\Debug\net8.0\ref\Module-6.4.dll
